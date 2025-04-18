@@ -138,14 +138,14 @@ p{
 }
 @media only screen and (max-width:800px){
   #first{
-    margin-left: 65px;
+    margin-left: 75px;
     width: 205px;
     height: 270px;
   }
 }
 @media only screen and (max-width:800px){
   #second{
-    margin-left: 65px;
+    margin-left: 75px;
     width: 205px;
     height: 270px;
   }
@@ -154,28 +154,28 @@ p{
   #fifth{
     height: 270px;
     width: 205px;
-    margin-left: 150px;
+    margin-left: 75px;
   }
 }
 @media only screen and (max-width:800px){
   #sixth{
-    height: 270px;
-    width: 205px;
-    margin-left: 27px;
+    height: 210px;
+    width: 156px;
+    margin-left: 0%;
   }
 }
 @media only screen and (max-width:800px){
   #seventh{
-    height: 270px;
-    width: 205px;
-    margin-left: 10px;
+    height: 210px;
+    width: 156px;
+    margin-left: 0%;
   }
 }
 @media only screen and (max-width:800px){
   #eighth{
     height: 270px;
     width: 205px;
-    margin-left: 150px;
+    margin-left: 75px;
   }
 }
 @media only screen and (max-width:800px){
